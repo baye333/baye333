@@ -1,4 +1,11 @@
 # 👋 Bonjour, je suis Baye Lahad Dia
+
+ J’ai un grand intérêt pour le génie logiciel ainsi que pour la cybersécurité et l’intelligence artificielle !
+ J’aime rejoindre différentes communautés et compétitions qui impliquent de créer quelque chose pour la société !
+ 
+  Je poursuis actuellement un diplôme d’ingénieur en Systèmes d’Information et Ingénierie des Données à l’Université Amadou Makhtar Mbow (Dakar, SÉNÉGAL <img width="15" height="10" alt="image" src="https://github.com/user-attachments/assets/49d72a98-aed2-4db1-9610-73b4a6f3d4d0" />
+).
+  
 ## 🧠 À propos de moi
 
 🎓 Étudiant à l’Université Amadou Mahtar MBOW  
@@ -10,7 +17,6 @@ Je suis un étudiant passionné d’informatique et de technologies.
 J'apprends le développement **web**, le **langage C**, **Python**, **Git** et **GitHub** pour devenir développeur professionnel.
 
 # Technologies:
-
 
 ## Programming Languages
 
@@ -39,8 +45,16 @@ J'apprends le développement **web**, le **langage C**, **Python**, **Git** et *
 
 ## 📫 Me contacter
 
-- 📧 Email : bayelahaddia792@gmail.com  
+- 📧 Email : [Mon mail](bayelahaddia792@gmail.com)  
 - 🔗 GitHub : [Mon profil](https://github.com/baye333)
 -  💼 LinkedIn : [Mon profil](https://linkedin.com/in/baye-lahad-dia55b35b339)
+
+-  
+ 🔭 Je travaille actuellement sur des projets personnels.
+
+ 🌱 J’apprends maintenant react et node.
+
+ ⚡ Fait amusant : J’adore résoudre des problèmes complexes et créer des solutions utiles pour la société.
+
 
 
